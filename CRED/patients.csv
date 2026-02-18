@@ -1,0 +1,7 @@
+name,city,age,gender,height,weight,bmi,verdict
+yamuna,Mumbai,29,female,1.65,90.0,27.78,Normal
+Ravi Mehta,Mumbai,35,male,1.75,85,27.76,Overweight
+Sneha Kulkarni,Pune,22,female,1.6,45,17.58,Underweight
+Arjun Verma,Mumbai,40,male,1.8,90.0,27.78,Normal
+Neha Sinha,Kolkata,30,female,1.55,75,31.22,Obese
+yamuna,Bangalore,29,female,140.0,60.0,30.61,Obese
