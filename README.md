@@ -1,6 +1,6 @@
 # FastAPI-Projects
-This repository is a beginner-friendly collection of backend projects built with FastAPI, SQLAlchemy, and JWT authentication.
-It is designed for students, beginners, and job seekers who want to learn how real-world APIs are built and secured.
+This repository is a beginner-friendly collection of backend projects built with **FastAPI, SQLAlchemy, and JWT authentication**.
+It is designed for students, beginners, to learn how real-world APIs are built and secured.
 
 These projects focus on core backend concepts such as request handling, database integration, authentication, and clean project structure — all through simple, hands-on examples.
 
