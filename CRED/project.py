@@ -204,7 +204,6 @@ def filter_data(
     gender: Optional[str] = Query(None)
 ):
     data= load_data().values()
-    data = load_data().values()
 
     if city:
         data = [p for p in data if p["city"].lower() == city.lower().strip()]
@@ -244,4 +243,5 @@ def export():
         writer = csv.DictWriter(f, fieldnames=data[0].keys())
         writer.writeheader()
         writer.writerows(data)
+
     return {"message":"Exported to patients.csv"}
