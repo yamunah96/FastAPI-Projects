@@ -11,3 +11,5 @@ What You’ll Learn
 - CRUD operations
 - Clean backend project structure
 - Real-world API workflows
+
+Reference: <a href="https://fastapi.tiangolo.com"> FASTAPI</a>
