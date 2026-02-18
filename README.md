@@ -6,8 +6,8 @@ These projects focus on core backend concepts such as request handling, database
 
 What You’ll Learn
 - Building REST APIs with FastAPI
-Database integration using SQLAlchemy
-Authentication & authorization using JWT
-CRUD operations
-Clean backend project structure
-Real-world API workflows
+- Database integration using SQLAlchemy
+- Authentication & authorization using JWT
+- CRUD operations
+- Clean backend project structure
+- Real-world API workflows
